@@ -1,0 +1,299 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "PIKASHOW LIVE TV",
+        "image": "https://i.imgur.com/H6qIVIt.png"
+      },
+      {
+        "title": "PIKASHOW LIVE TV",
+        "image": "https://i.imgur.com/H6qIVIt.png"
+      },
+      {
+        "title": "PIKASHOW LIVE TV",
+        "image": "https://i.imgur.com/H6qIVIt.png"
+      },
+      {
+        "title": "PIKASHOW LIVE TV",
+        "image": "https://i.imgur.com/H6qIVIt.png"
+      },
+      {
+        "title": "PIKASHOW LIVE TV",
+        "image": "https://i.imgur.com/H6qIVIt.png"
+      },
+      {
+        "title": "PIKASHOW LIVE TV",
+        "image": "https://i.imgur.com/H6qIVIt.png"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This is the time of modern age all of us watch video content like Movies, Web Series a lot in the Smartphone. There are a lot of streaming platforms that are avaliable in the market right now, They charge a small amount for subscriptions, platforms like Hotstar, Netflix, Prime Video Etc. But if you want free entertainment and all this content on just a single platform then PikaShow is the Best application you. It provides all the latest video streaming content like Movies, Web Series, Live TV, IPL, TV Shows, and Much More from all the platforms just on a single app without any subscription.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "h",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "PikaShow provides you to enjoy all types of entertainment just on a single app. You can watch Tv Shows, Live Cricket Matches, Hollywood Movies, Bollywood Movies, Tollywood Movies, More....You can able to watch and of your favorite TV Shows any time on the go. Watch Live TV, Drama, Comedy channels and watch Cricket on Sports channels. If you watch a lot of movies then PikaShow Mod APK is the only app that you want. Here you will get all the latest Bollywood, Hollywood Movies and Web Series, that you can watch and download anytime.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Download the latest version of PikaShow APK from here [https://pikashow.app] After download the apk file, just open it up Now, if it asks to enable unknown sources, then go to setting -> security -> unknown sources Then, just turn on unknown sources Thats it Now click on Install button Wait, till the installation is done Now, Your PikaShow APK is successfully installed Open the PikaShow APK and Enjoy all the Premium unlocked fetaures Now, Hurry.",
+        "isNative": "false"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "PikaShow is available for Android and TV devices. It Supports all the mojor video streaming devices like: Amazon FireTV Android Tv Android Smartphones Android Tablet</",
+        "isNative": "false"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "PikaShow Also allows you to download the video from the app So, that you can also watch offline on your smartphone. You just have to install the 1DM Downloader APK then select any video from the PikaShow app then click Download and it will start downloading the video using the Downloader app. Below we have proper Guide How to Download Video In Pikashow",
+        "isNative": "false"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#000000",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "PikaShow is All in one application for Android which provides Premium video content from all the sources just in one place. It has all the OTT platform content right from movies, web series, Live TV, Shows, etc. Also, you can download any of the videos available in the pikashow directly to your smartphone. PikaShow provides all this content for absolutely free.",
+        "isNative": "false"
+      }
+    ]
+  }
+}
